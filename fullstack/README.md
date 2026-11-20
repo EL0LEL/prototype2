@@ -1,11 +1,11 @@
 # Full-Stack — POS Toko Rina 2
 
 <div align="center">
-  <a href="https://claude.ai/artifact/Gjo2vXWeQAat2WSt6yMF7N" target="_blank">
+  <a href="https://claude.ai/artifact/RhwAoS32AEFcbtieUYCHsd" target="_blank">
     <img src="./preview-terang.png" alt="Live Demo POS Toko Rina 2 (Tema Terang)" width="100%" />
   </a>
   <br />
-  <a href="https://claude.ai/artifact/Gjo2vXWeQAat2WSt6yMF7N" target="_blank">
+  <a href="https://claude.ai/artifact/RhwAoS32AEFcbtieUYCHsd" target="_blank">
     <img src="https://img.shields.io/badge/▶_COBA_LIVE_DEMO-30d5c8?style=for-the-badge&logoColor=161512&labelColor=161512" alt="Coba Live Demo" />
   </a>
 >
