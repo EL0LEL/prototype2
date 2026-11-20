@@ -1,0 +1,17 @@
+@import './ipos-theme.css';
+
+/* Import Tailwind CSS dasar */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'DM Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background-color: var(--ipos-bg-main);
+  color: var(--ipos-text);
+}
+
+/* Font khusus angka harga & total nota kasir */
+.font-mono-price {
+  font-family: 'JetBrains Mono', monospace;
+}

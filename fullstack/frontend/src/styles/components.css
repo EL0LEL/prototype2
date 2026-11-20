@@ -1,0 +1,43 @@
+/* ==============================================================
+   KOMPONEN KHAS iPOS 5 (tabel data & floating search), gaya editorial terang
+   ============================================================== */
+
+.ipos-table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.ipos-table th {
+  background-color: #f4eee4;
+  color: #7a746a;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.625rem 0.75rem;
+  border-bottom: 1px solid #ece4d6;
+}
+
+.ipos-table td {
+  padding: 0.625rem 0.75rem;
+  border-bottom: 1px solid #f1eadf;
+  font-size: 0.8125rem;
+}
+
+.ipos-table tr:hover {
+  background-color: rgba(48, 213, 200, 0.07);
+}
+
+.floating-autocomplete {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  margin-top: 0.5rem;
+  background-color: #ffffff;
+  border: 1px solid #161512;
+  border-radius: 1.25rem;
+  box-shadow: 0 18px 40px -12px rgba(22, 21, 18, 0.25);
+  max-height: 16rem;
+  overflow-y: auto;
+}

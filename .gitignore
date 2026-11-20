@@ -1,0 +1,36 @@
+# Local credentials. Safe examples may be committed after review.
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies and generated outputs.
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.cache/
+coverage/
+htmlcov/
+dist/
+build/
+*.log
+
+# Unreviewed data, trained binaries, and local databases.
+data-science/data/raw/
+data-science/data/interim/
+data-science/data/processed/
+ai-engineering/artifacts/
+*.sqlite
+*.sqlite3
+*.db
+
+# Local editor and operating system files.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

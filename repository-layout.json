@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "project": "Toko Rina 2",
+  "team_id": "A26-CS212",
+  "status": "structure-only",
+  "areas": [
+    {
+      "id": "frontend",
+      "path": "fullstack/frontend",
+      "division": "fullstack",
+      "entrypoint": "fullstack/frontend/README.md"
+    },
+    {
+      "id": "backend",
+      "path": "fullstack/backend",
+      "division": "fullstack",
+      "entrypoint": "fullstack/backend/README.md"
+    },
+    {
+      "id": "ai-engineering",
+      "path": "ai-engineering",
+      "division": "next-gen-ai-engineer",
+      "entrypoint": "ai-engineering/README.md"
+    },
+    {
+      "id": "data-science",
+      "path": "data-science",
+      "division": "data-science",
+      "entrypoint": "data-science/README.md"
+    }
+  ],
+  "shared": [
+    {
+      "path": "contracts",
+      "entrypoint": "contracts/README.md",
+      "purpose": "API and data agreements"
+    },
+    {
+      "path": "docs",
+      "entrypoint": "docs/README.md",
+      "purpose": "Architecture, workflow, and team decisions"
+    }
+  ],
+  "planned_connections": [
+    {
+      "from": "frontend",
+      "to": "backend",
+      "via": "HTTP API",
+      "status": "planned"
+    },
+    {
+      "from": "backend",
+      "to": "ai-engineering",
+      "via": "HTTP API",
+      "status": "planned"
+    },
+    {
+      "from": "data-science",
+      "to": "ai-engineering",
+      "via": "versioned data and artifacts",
+      "status": "planned"
+    },
+    {
+      "from": "data-science",
+      "to": "backend",
+      "via": "agreed catalog or analysis data",
+      "status": "planned"
+    }
+  ]
+}

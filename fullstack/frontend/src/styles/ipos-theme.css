@@ -1,0 +1,27 @@
+/* ==============================================================
+   TEMA iPOS 5 STANDARD UMKM: editorial bento, terang
+   Krem hangat + kartu pastel + tinta hitam hangat, turquoise sebagai highlight
+   ============================================================== */
+:root {
+  --ipos-bg-main: #c3ece0;       /* Latar luar aplikasi (mint)            */
+  --ipos-bg-panel: #efe7dc;      /* Panel samping (beige)                 */
+  --ipos-bg-canvas: #fbf7f0;     /* Kanvas konten utama (krem)            */
+  --ipos-bg-card: #ffffff;       /* Kartu putih                           */
+  --ipos-bg-input: #f8f3ea;      /* Input                                 */
+  --ipos-border: #ece4d6;        /* Garis pemisah halus                   */
+  --ipos-text: #161512;          /* Tinta utama                           */
+  --ipos-text-muted: #7a746a;    /* Teks sekunder                         */
+
+  --ipos-accent: #30d5c8;        /* Highlight (Turquoise)                 */
+  --ipos-accent-deep: #0a7d73;   /* Turquoise untuk teks di atas krem     */
+
+  --pastel-rose: #f2c4c0;        /* Menunggu / perlu perhatian            */
+  --pastel-peach: #f8d9b4;       /* Admin                                 */
+  --pastel-lavender: #d4cdf6;    /* Kasir                                 */
+  --pastel-mint: #bfe6d3;        /* Pencatat / sukses                     */
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d9ceba; border-radius: 999px; }
+::-webkit-scrollbar-thumb:hover { background: #c5b9a4; }

@@ -1,0 +1,8 @@
+{
+  "appId": "com.tokorina.pos",
+  "appName": "Toko Rina POS",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
