@@ -8,9 +8,7 @@
   <a href="https://claude.ai/artifact/Gjo2vXWeQAat2WSt6yMF7N" target="_blank">
     <img src="https://img.shields.io/badge/▶_COBA_LIVE_DEMO_TEMA_TERANG-30d5c8?style=for-the-badge&logoColor=161512&labelColor=161512" alt="Coba Live Demo Tema Terang" />
   </a>
-  <a href="https://cheerful-longma-0f7792.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/▶_Demo_Tema_Gelap_(versi_awal)-0b1329?style=for-the-badge&logo=netlify&logoColor=white" alt="Demo Tema Gelap" />
-  </a>
+>
 </div>
 
 ---
